@@ -1,0 +1,17 @@
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\bin\Debug\net10.0-windows\WinFormsPractice.exe
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\bin\Debug\net10.0-windows\WinFormsPractice.deps.json
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\bin\Debug\net10.0-windows\WinFormsPractice.runtimeconfig.json
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\bin\Debug\net10.0-windows\WinFormsPractice.dll
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\bin\Debug\net10.0-windows\WinFormsPractice.pdb
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.MusicPlayerMain.resources
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.csproj.GenerateResource.cache
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.dll
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\refint\WinFormsPractice.dll
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.pdb
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\ref\WinFormsPractice.dll
+C:\Users\lv_jo\source\repos\WinFormsPractice\WinFormsPractice\obj\Debug\net10.0-windows\WinFormsPractice.Library_Selection_Form.resources
